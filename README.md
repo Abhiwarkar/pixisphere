@@ -62,7 +62,7 @@ json-server --watch db.json --port 3001
 npm run dev
 ```
 
-The application will be available at --https://pixisphere-mauve.vercel.app/
+The application will be available at --https://pixisphere-navy.vercel.app/
 Github Resopsitory--https://github.com/Abhiwarkar/pixisphere
 
 
