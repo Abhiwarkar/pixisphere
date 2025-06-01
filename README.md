@@ -38,7 +38,7 @@ A modern, responsive web application built with Next.js and React for connecting
 ```bash
 # Clone the repository
 git clone https://github.com/Abhiwarkar/pixisphere
-cd pixisphere-frontend
+cd pixisphere
 
 # Install dependencies
 npm install
