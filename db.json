@@ -1,0 +1,170 @@
+{
+  "photographers": [
+    {
+      "id": 1,
+      "name": "Ravi Studio",
+      "location": "Bengaluru",
+      "price": 10000,
+      "rating": 4.6,
+      "styles": ["Outdoor", "Studio"],
+      "tags": ["Candid", "Maternity"],
+      "bio": "Award-winning studio specializing in maternity and newborn shoots. With over 10 years of experience, we capture life's most precious moments with artistic flair and professional expertise.",
+      "profilePic": "/images/ravi.jpg",
+      "portfolio": ["/images/portfolio1.jpg", "/images/portfolio2.jpg"],
+      "reviews": [
+        {
+          "name": "Ananya",
+          "rating": 5,
+          "comment": "Truly amazing photos and experience! Ravi captured our maternity journey beautifully.",
+          "date": "2024-12-15"
+        },
+        {
+          "name": "Arjun",
+          "rating": 4.5,
+          "comment": "Professional service and stunning results. Highly recommended!",
+          "date": "2024-11-20"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Lens Queen Photography",
+      "location": "Delhi",
+      "price": 15000,
+      "rating": 4.2,
+      "styles": ["Candid", "Indoor"],
+      "tags": ["Newborn", "Birthday"],
+      "bio": "Delhi-based candid specialist for kids and birthday parties. We specialize in capturing natural, joyful moments that tell your unique story.",
+      "profilePic": "/images/lensqueen.jpg",
+      "portfolio": ["/images/lens1.jpg", "/images/lens2.jpg"],
+      "reviews": [
+        {
+          "name": "Priya",
+          "rating": 4,
+          "comment": "Very professional and punctual! Great with kids.",
+          "date": "2024-10-01"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Click Factory",
+      "location": "Mumbai",
+      "price": 8000,
+      "rating": 4.8,
+      "styles": ["Studio", "Outdoor", "Traditional"],
+      "tags": ["Wedding", "Pre-wedding"],
+      "bio": "Capturing timeless wedding stories across India. We blend traditional and contemporary styles to create memorable wedding photography.",
+      "profilePic": "/images/clickfactory.jpg",
+      "portfolio": ["/images/wed1.jpg", "/images/wed2.jpg"],
+      "reviews": [
+        {
+          "name": "Rahul",
+          "rating": 5,
+          "comment": "We loved every single moment they captured. Absolutely magical!",
+          "date": "2025-01-22"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Moments by Neha",
+      "location": "Bengaluru",
+      "price": 12000,
+      "rating": 4.3,
+      "styles": ["Outdoor", "Candid"],
+      "tags": ["Maternity", "Couple"],
+      "bio": "Natural light specialist focusing on emotional storytelling. Creating timeless memories with a personal touch and artistic vision.",
+      "profilePic": "/images/neha.jpg",
+      "portfolio": ["/images/neha1.jpg", "/images/neha2.jpg"],
+      "reviews": [
+        {
+          "name": "Sneha",
+          "rating": 4.5,
+          "comment": "Captured our maternity journey so beautifully. Very patient and creative.",
+          "date": "2024-11-05"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Snapshot Studio",
+      "location": "Hyderabad",
+      "price": 7000,
+      "rating": 3.9,
+      "styles": ["Studio"],
+      "tags": ["Birthday", "Family"],
+      "bio": "Affordable indoor shoots with creative themes. We make photography accessible while maintaining quality and creativity.",
+      "profilePic": "/images/snapshot.jpg",
+      "portfolio": ["/images/snapshot1.jpg", "/images/snapshot2.jpg"],
+      "reviews": [
+        {
+          "name": "Vikram",
+          "rating": 3.5,
+          "comment": "Decent service, could improve on punctuality. Good value for money though.",
+          "date": "2024-09-10"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Divine Captures",
+      "location": "Chennai",
+      "price": 11000,
+      "rating": 4.7,
+      "styles": ["Traditional", "Studio"],
+      "tags": ["Wedding", "Family"],
+      "bio": "Traditional photography with a modern twist. Specializing in South Indian weddings and family portraits.",
+      "profilePic": "/images/divine.jpg",
+      "portfolio": ["/images/south1.jpg", "/images/south2.jpg"],
+      "reviews": [
+        {
+          "name": "Lakshmi",
+          "rating": 5,
+          "comment": "Beautiful traditional shots! Perfectly captured our cultural ceremonies.",
+          "date": "2024-12-01"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Urban Lens",
+      "location": "Pune",
+      "price": 9500,
+      "rating": 4.4,
+      "styles": ["Candid", "Outdoor"],
+      "tags": ["Pre-wedding", "Couple"],
+      "bio": "Contemporary urban photography for modern couples. We capture love stories against stunning cityscapes.",
+      "profilePic": "/images/lensqueen.jpg",
+      "portfolio": ["/images/couple1.jpg", "/images/couple2.jpg"],
+      "reviews": [
+        {
+          "name": "Aadhya",
+          "rating": 4.5,
+          "comment": "Amazing pre-wedding shoot! Very creative with locations.",
+          "date": "2024-10-15"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Golden Hour Studios",
+      "location": "Jaipur",
+      "price": 13500,
+      "rating": 4.1,
+      "styles": ["Outdoor", "Traditional"],
+      "tags": ["Wedding", "Maternity"],
+      "bio": "Capturing the magic of golden hour photography in the Pink City. Specializing in royal wedding themes.",
+      "profilePic": "/images/golden hour.jpg",
+      "portfolio": ["/images/p1.jpg", "/images/p2.jpg"],
+      "reviews": [
+        {
+          "name": "Rajesh",
+          "rating": 4,
+          "comment": "Great use of natural light. Beautiful royal theme execution.",
+          "date": "2024-09-25"
+        }
+      ]
+    }
+  ]
+}
