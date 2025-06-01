@@ -62,52 +62,10 @@ json-server --watch db.json --port 3001
 npm run dev
 ```
 
-The application will be available at `http://localhost:3000`
+The application will be available at --https://pixisphere-mauve.vercel.app/
+Github Resopsitory--https://github.com/Abhiwarkar/pixisphere
 
-## Project Structure
 
-```
-src/
-├── components/
-│   ├── common/           # Reusable UI components
-│   │   ├── Button.js
-│   │   ├── Modal.js
-│   │   ├── Rating.js
-│   │   ├── Skeleton.js
-│   │   └── Tag.js
-│   ├── filters/          # Filter components
-│   │   ├── SearchBar.js
-│   │   ├── PriceRangeFilter.js
-│   │   ├── RatingFilter.js
-│   │   ├── StylesFilter.js
-│   │   ├── LocationFilter.js
-│   │   ├── SortOptions.js
-│   │   └── FilterSidebar.js
-│   ├── layout/           # Layout components
-│   │   └── MainLayout.js
-│   └── photographer/     # Photographer-specific components
-│       ├── PhotographerCard.js
-│       ├── PhotographerGrid.js
-│       └── InquiryForm.js
-├── hooks/
-│   └── useDebounce.js    # Custom debounce hook
-├── pages/
-│   ├── photographer/     # Page components
-│   │   ├── HomePage.js
-│   │   ├── PhotographerProfilePage.js
-│   │   └── [id].js
-│   ├── _app.js          # App wrapper with Redux Provider
-│   ├── _document.js     # HTML document structure
-│   └── index.js         # Home page route
-├── redux/
-│   ├── photographerSlice.js  # Photographer state management
-│   ├── uiSlice.js           # UI state management
-│   └── store.js             # Redux store configuration
-├── styles/
-│   └── globals.css      # Global styles and Tailwind imports
-└── utils/
-    └── api.js           # API utilities and helpers
-```
 
 ## Key Features Implementation
 
@@ -217,6 +175,3 @@ NEXT_PUBLIC_API_BASE_URL=http://localhost:3001
 5. Include loading states
 6. Write clean, documented code
 
-## License
-
-This project is part of the Pixisphere frontend assignment and is intended for evaluation purposes.
