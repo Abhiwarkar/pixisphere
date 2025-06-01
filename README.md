@@ -2,6 +2,13 @@
 
 A modern, responsive web application built with Next.js and React for connecting customers with photographers for various occasions like maternity, newborn, birthday, and wedding shoots.
 
+Screenshots of the website---
+![image](https://github.com/user-attachments/assets/6bb3a9a6-4f10-4dda-8f14-5485b7f9e636)
+![image](https://github.com/user-attachments/assets/f78831ae-516a-41fb-b434-c7729faac28e)
+
+
+
+
 ## Features
 
 ### Core Features
